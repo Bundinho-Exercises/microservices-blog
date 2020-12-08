@@ -12,10 +12,13 @@
 	url = https://github.com/Bundinho-Exercises/microservices-blog-event-bus.git
 [submodule "posts"]
 	path = posts
-	url = https://github.com/Bundinho-Exercises/microservices-blog-posts.git
+	url = https://github.com/Bundinho-Exercises/microservices-blog-post.git
 [submodule "moderation"]
 	path = moderation
 	url = https://github.com/Bundinho-Exercises/microservices-blog-moderation.git
 [submodule "query"]
 	path = query
 	url = https://github.com/Bundinho-Exercises/microservices-blog-query.git
+[submodule "post"]
+	path = post
+	url = https://github.com/Bundinho-Exercises/microservices-blog-posts.git
