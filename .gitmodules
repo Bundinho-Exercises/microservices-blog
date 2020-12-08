@@ -6,7 +6,7 @@
 	url = https://github.com/Bundinho-Exercises/microservices-blog-client.git
 [submodule "comments"]
 	path = comments
-	url = https://github.com/Bundinho-Exercises/microservices-blog-comments.git
+	url = https://github.com/Bundinho-Exercises/microservice-blog-comments.git
 [submodule "event-bus"]
 	path = event-bus
 	url = https://github.com/Bundinho-Exercises/microservices-blog-event-bus.git
